@@ -21,13 +21,13 @@ The basic structure of our club will remain that expressed in the Articles of Or
 
 Article I         Elections
 
-    Elections shall be conducted annually to fill the five positions which are collectively known as the executive committee. Of these five positions, three of them are also officer roles. Those roles are:
+    Elections shall be conducted annually to fill the five positions which are collectively known as the executive committee.   The executive committee contains three specific officer roles.  Those officers will be known as Elected Officers.  Those Elected Officer roles are:
 
     President
     Vice President
     Secretary
 
-    The two remaining executive committee members may also hold officers roles, but it is not required. 
+    The two remaining executive committee members may also hold Appointed Officer roles (see below), but it is not required.
 
 
 Article II        Duties of the executive committee:
@@ -58,17 +58,17 @@ Article V        Duties of the Secretary:
 
 Article VI       Appointment of Officers
 
-    The executive committee will appoint and dismiss all officer positions which are not part of the executive committee.
-    These officer positions must include Treasurer and may include Social Coordinators, Technical Coordinators, Style of the Quarter Coordinators, Webmaster and any other roles deemed necessary by the executive committee.
-    The executive committee will consider the following principles when appointing members to the officer positions:
-        Officer roles should be filled by members best suited to the role.
-        Members appointed to officer roles should be deemed likely to fill the role for a minimum of 6 months by the executive committee and, upon leaving the role, be willing to assist in finding a replacement.
+    In addition to the Elected Officer roles there are additional officer roles, and the members filling those roles will be known as Appointed Officers.  The executive committee will appoint and dismiss all Appointed Officer positions.
+    These Appointed Officer positions must include Treasurer and may include Social Coordinators, Technical Coordinators, Style of the Quarter Coordinators, Webmaster and any other roles deemed necessary by the executive committee.
+    The executive committee will consider the following principles when appointing members to the Appointed Officer positions:
+        Appointed Officer roles should be filled by members best suited to the role.
+        Members appointed to Appointed Officer roles should be deemed likely to fill the role for a minimum of 6 months by the executive committee and, upon leaving the role, be willing to assist in finding a replacement.
         Members well suited to a role should be allowed to continue filling that role indefinitely.
         If the role necessitates that only one person fill the role at a time and another well suited members expresses interest in filling the role the executive committee should give preference to new members in order to encourage diversity in the leadership of the club.
 
 Article VII      Duties of the members:
 
-    Act in an ethical and non abusive manner.
+    Act in an ethical and non-abusive manner.
     Participate in club chores necessary to the presentation of club activities, especially in so far as that needed to provide and compensate for their stake in the benefits.
     Normally, bring two beers to each meeting they attend.
     Share in the camaraderie of the club and join in the individual quest for the perfect brew.
